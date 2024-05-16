@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.login-section {
+    width: 50%;
+    /* Add your styles here */
+}
+
+.illustration-section {
+    width: 50%;
+    background-image: url('path-to-your-illustration.jpg');
+    background-size: cover;
+    /* Add your styles here */
+}
+
+/* Add additional styles for form elements and buttons */
